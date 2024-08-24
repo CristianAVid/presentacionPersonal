@@ -1,35 +1,14 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programaci髇 con objetos I
+mi nombre  Cristian Vidal, estudiante de 38 a帽os que cursa la carrera de prograci贸n en la Universidad Nacional de Hurlingham (UNAHUR). La UNAHUR es una instituci贸n p煤blica y gratuita ubicada en la localidad de Hurlingham, en la provincia de Buenos Aires, Argentina
 
-En esta materia aprender醤 sobre la famosa POO _(OOP en ingl閟)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
-
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisi髇 1 **turno noche**: Martes 18 a 22hs y S醔ado 10 a 12hs.
-* Horario comisi髇 2 **turno ma馻na**: Mi閞coles 8 a 12hs y S醔ado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo Gonz醠ez Tulian, Lucas Spigariol, Cristian Ciarallo y Hern醤 Coniglio
-* Adem醩 nos acompa馻n como colaboradores Valentino Chiappanni, Manuel Nu馿z y Lucian Coniglio.
-
-## Links importantes :monocle_face:
-- [x] [P醙ina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+##Investigaci贸n en Rogroci贸n: 
+Podr铆a mencionar el inter茅s en investigar y comprender los procesos y t茅cnicas relacionadas con esta disciplina. 驴Quiz谩s ha participado en proyectos de investigaci贸n o le gustar铆a hacerlo?
+##Programaci贸n y Algoritmos: 
+Inter茅s en la programaci贸n y la l贸gica detr谩s de los algoritmos. Puede mencionarse su pasi贸n por resolver problemas y crear soluciones eficientes.
+##Rob贸tica y Automatizaci贸n:
+Podr铆a destacar mi inter茅s en explorar c贸mo aplicar estos conceptos en la pr谩ctica.
+##Colaboraci贸n Interdisciplinaria:
+Colaborar con estudiantes de otras 谩reas, como ingenier铆a, matem谩ticas o electr贸nica. Esto podr铆a enriquecer su experiencia acad茅mica.
 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Gu韆 R鄍ida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en ingl閟)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
